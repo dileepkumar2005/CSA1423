@@ -7,7 +7,7 @@
 
 .+ {printf("\nMobile Number Invalid\n");}
 
-%%
+%%    
 int yywrap(void) {}
 
 int main()
